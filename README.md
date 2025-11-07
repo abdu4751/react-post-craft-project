@@ -26,6 +26,7 @@ Add search and filter options
 Store posts in LocalStorage
 
 <h1>📸 Preview</h1>
+
 ![React Post Craft Screenshot](https://github.com/abdu4751/react-post-craft-project/blob/0a77c2a840dc3d1b3d5677698af40ed8daa12ec0/project-screen-shot.png?raw=true)
 ![Second Screenshot](https://github.com/abdu4751/react-post-craft-project/blob/f5584ea8bdc9c06b1f4e88f1377b635e5eabdb81/second-project-image.png?raw=true)
 
